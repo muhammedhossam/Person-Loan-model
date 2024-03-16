@@ -44,6 +44,3 @@ The loan acceptance prediction app is a Streamlit application that allows users 
 
 ## Contributing
 Contributions to this project are welcome. Please submit a pull request with your proposed changes, and they will be reviewed accordingly.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
